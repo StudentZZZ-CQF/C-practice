@@ -1,1 +1,1 @@
-# C-practice
+# C++-practice for leetcode
